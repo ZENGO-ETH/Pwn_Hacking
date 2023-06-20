@@ -82,3 +82,4 @@ Disclaimer - this won't work on apple silicon macs.
 ## Contact
 If you have any questions not worthy of a [bug report](https://github.com/pwndbg/pwndbg/issues), feel free to ping
 anybody on [Discord](https://discord.gg/x47DssnGwm) and ask away.
+# Pwn_Hacking
